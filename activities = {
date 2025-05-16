@@ -1,0 +1,53 @@
+activities = {
+    "Soccer": {
+        "type": "sport",
+        "participants": []
+    },
+    "Basketball": {
+        "type": "sport",
+        "participants": []
+    },
+    # Added sports activities
+    "Tennis": {
+        "type": "sport",
+        "participants": []
+    },
+    "Swimming": {
+        "type": "sport",
+        "participants": []
+    },
+    "Painting": {
+        "type": "artistic",
+        "participants": []
+    },
+    "Music": {
+        "type": "artistic",
+        "participants": []
+    },
+    # Added artistic activities
+    "Sculpture": {
+        "type": "artistic",
+        "participants": []
+    },
+    "Photography": {
+        "type": "artistic",
+        "participants": []
+    },
+    "Chess": {
+        "type": "intellectual",
+        "participants": []
+    },
+    "Math Club": {
+        "type": "intellectual",
+        "participants": []
+    },
+    # Added intellectual activities
+    "Debate": {
+        "type": "intellectual",
+        "participants": []
+    },
+    "Science Club": {
+        "type": "intellectual",
+        "participants": []
+    }
+}
